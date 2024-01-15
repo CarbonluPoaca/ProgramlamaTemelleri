@@ -20,7 +20,5 @@ namespace Math12012024
 
 
 
-
-
     }
 }
