@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\bin\Debug\net6.0\Class_homework11.01.2024.exe
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\bin\Debug\net6.0\Class_homework11.01.2024.deps.json
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\bin\Debug\net6.0\Class_homework11.01.2024.runtimeconfig.json
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\bin\Debug\net6.0\Class_homework11.01.2024.dll
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\bin\Debug\net6.0\Class_homework11.01.2024.pdb
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.AssemblyInfo.cs
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.dll
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\refint\Class_homework11.01.2024.dll
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.pdb
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\Class_homework11.01.2024.genruntimeconfig.cache
+C:\Users\user\source\repos\KampIntro\Class_homework11.01.2024\obj\Debug\net6.0\ref\Class_homework11.01.2024.dll
