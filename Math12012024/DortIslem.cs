@@ -8,10 +8,7 @@ namespace Math12012024
 {
     internal class DortIslem
     {
-        public void kufur(string a) 
-        {
-            Console.WriteLine(a + " senin amk onun bunun evladı");
-        }
+
         public void toplama (int x, int y) 
         {
             Console.WriteLine(x+y);
@@ -20,6 +17,9 @@ namespace Math12012024
         {
             Console.WriteLine(x-y);
         }
+
+
+
 
     }
 }
