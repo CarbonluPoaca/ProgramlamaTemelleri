@@ -18,7 +18,5 @@ namespace Math12012024
             Console.WriteLine(x-y);
         }
 
-        
-    
     }
 }
