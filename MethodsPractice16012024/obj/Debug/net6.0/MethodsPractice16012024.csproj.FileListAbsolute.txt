@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\bin\Debug\net6.0\MethodsPractice16012024.exe
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\bin\Debug\net6.0\MethodsPractice16012024.deps.json
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\bin\Debug\net6.0\MethodsPractice16012024.runtimeconfig.json
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\bin\Debug\net6.0\MethodsPractice16012024.dll
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\bin\Debug\net6.0\MethodsPractice16012024.pdb
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.AssemblyInfo.cs
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.dll
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\refint\MethodsPractice16012024.dll
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.pdb
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\MethodsPractice16012024.genruntimeconfig.cache
+C:\Users\user\source\repos\KampIntro\MethodsPractice16012024\obj\Debug\net6.0\ref\MethodsPractice16012024.dll
