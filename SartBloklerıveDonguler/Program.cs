@@ -127,11 +127,13 @@ foreach (var item in items)//"'items' arrayinin içindeki 'item' alliası ile te
 
 Console.WriteLine("------------------------------------------------------------");
 
-//WHİLE DÖNGÜSÜ
+//WHİLE DÖNGÜSÜf
 int a = 0;
-while (a < 3)//for döngüsüne benzer fakat burada geçici 
+while (a < 3)//for döngüsüne benzer fakat burada geçici değiken atamıyoruz
 {
-    Console.WriteLine();
+    Console.WriteLine(a);
+    a++;
 }
+
 
 

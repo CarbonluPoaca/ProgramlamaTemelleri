@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\bin\Debug\net6.0\SartBloklerıVeDonguler08012024.exe
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\bin\Debug\net6.0\SartBloklerıVeDonguler08012024.deps.json
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\bin\Debug\net6.0\SartBloklerıVeDonguler08012024.runtimeconfig.json
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\bin\Debug\net6.0\SartBloklerıVeDonguler08012024.dll
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\bin\Debug\net6.0\SartBloklerıVeDonguler08012024.pdb
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.AssemblyInfo.cs
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.dll
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\refint\SartBloklerıVeDonguler08012024.dll
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.pdb
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\SartBloklerıVeDonguler08012024.genruntimeconfig.cache
+C:\Users\user\source\repos\KampIntro\SartBloklerıveDonguler\obj\Debug\net6.0\ref\SartBloklerıVeDonguler08012024.dll

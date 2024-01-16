@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DegerVeReferansTip16012024/1.0.0": {
+        "runtime": {
+          "DegerVeReferansTip16012024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DegerVeReferansTip16012024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

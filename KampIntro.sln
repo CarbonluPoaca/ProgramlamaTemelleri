@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods12012024", "Methods\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math12012024", "Math12012024\Math12012024.csproj", "{DE6B6D50-6366-4604-B373-52927F24154D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsPractice16012024", "MethodsPractice16012024\MethodsPractice16012024.csproj", "{29C7F1BB-8D5B-44F9-ACA7-8B620FB20F5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsPractice16012024", "MethodsPractice16012024\MethodsPractice16012024.csproj", "{29C7F1BB-8D5B-44F9-ACA7-8B620FB20F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTip16012024", "DegerVeReferansTip16012024\DegerVeReferansTip16012024.csproj", "{F254CD7A-8E5D-4E2F-B04B-7690C7DEB2D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{29C7F1BB-8D5B-44F9-ACA7-8B620FB20F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C7F1BB-8D5B-44F9-ACA7-8B620FB20F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C7F1BB-8D5B-44F9-ACA7-8B620FB20F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F254CD7A-8E5D-4E2F-B04B-7690C7DEB2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F254CD7A-8E5D-4E2F-B04B-7690C7DEB2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F254CD7A-8E5D-4E2F-B04B-7690C7DEB2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F254CD7A-8E5D-4E2F-B04B-7690C7DEB2D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
